@@ -16,3 +16,4 @@ EXPOSE 8080
 USER hamada
 
 CMD ["python", "app.py"]
+
