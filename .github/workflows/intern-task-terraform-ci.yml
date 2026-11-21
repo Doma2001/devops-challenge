@@ -6,7 +6,7 @@ on:
       - "intern-task-terraform/**"
       - ".github/workflows/intern-task-terraform-ci.yml"
   push:
-    branches: [main]
+    branches: [main, dev]
     paths:
       - "intern-task-terraform/**"
       - ".github/workflows/intern-task-terraform-ci.yml"
